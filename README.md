@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yoo7si40bb16byko?svg=true)](https://ci.appveyor.com/project/Sirotina/web)
